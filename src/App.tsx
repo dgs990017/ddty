@@ -32,7 +32,7 @@ function App() {
       <header className="py-12 md:py-16 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-slate-800 mb-4">
-            多多体育
+            （多多体育）
           </h1>
           <p className="text-lg md:text-xl text-slate-600">
                             🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
