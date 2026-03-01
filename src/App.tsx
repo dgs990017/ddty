@@ -3,7 +3,7 @@ function App() {
     {
       id: 1,
       name: '星空体育',
-      description: '提升效率的智能工具，让工作和生活更轻松便捷',
+      description: '',
       image: 'https://pic1.imgdb.cn/item/69a40ac1ac80c84bfd15ae58.png',
       color: 'from-blue-500 to-cyan-500',
       link: 'ttps://www.8ahmna.vip:9003/register/?agent_code=55699651'
@@ -11,7 +11,7 @@ function App() {
     {
       id: 2,
       name: '开云体育',
-      description: '专业的企业管理解决方案，助力业务增长',
+      description: '',
       image: 'https://pic1.imgdb.cn/item/699c51217aea005f38310225.jpg',
       color: 'from-orange-500 to-amber-500',
       link: 'https://www.vwqv2s.vip:9663/entry/register79049/?i_code=94491262'
@@ -19,7 +19,7 @@ function App() {
     {
       id: 3,
       name: '米兰体育',
-      description: '关注健康，记录运动，养成良好的生活习惯',
+      description: '',
       image: 'https://pic1.imgdb.cn/item/699c510a7aea005f38310220.jpg',
       color: 'from-green-500 to-teal-500',
       link: 'https://www.pr9oj0.vip:9037/entry/register27248/?i_code=321944933'
