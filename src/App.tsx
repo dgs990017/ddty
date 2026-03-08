@@ -12,7 +12,7 @@ function App() {
       description:' ',
       image: 'https://pic1.imgdb.cn/item/69a40ac1ac80c84bfd15ae58.png',
       color: 'from-blue-500 to-cyan-500',
-      link: 'ttps://www.8ahmna.vip:9003/register/?agent_code=55699651'
+      link: 'https://www.8ahmna.vip:9003/register/?agent_code=55699651'
     },
     {
       id: 2,
@@ -54,6 +54,8 @@ function App() {
               <a
                 key={app.id}
                 href={app.link}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block bg-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden group cursor-pointer"
               >
                 <div className="flex flex-row items-center gap-4 md:gap-6 p-4 md:p-8">
